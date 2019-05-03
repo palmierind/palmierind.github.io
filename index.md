@@ -6,7 +6,7 @@ permalink: /
 order: 1
 ---
 
-# React Simple Chatbot
+# Marshall Museum Mobile Application
 
 Welcome to Marshal Musesum 
 
@@ -17,12 +17,12 @@ George Marshall was a 5 star General in the Army
 <img src="https://www.atomicheritage.org/sites/default/files/George-Marshall.jpg"/>
 
 
-<img src="https://cloud.githubusercontent.com/assets/1014326/25716667/2d4bb4c4-30d6-11e7-996e-30c8fb316361.gif" height="400" />
 
 ## Getting Start
 
 ```bash
-npm install react-simple-chatbot --save
+Take a virtual tour
+Test
 ```
 
 ## Usage
