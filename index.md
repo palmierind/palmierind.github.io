@@ -14,8 +14,9 @@ Welcome to Marshal Musesum
 
 
 George Marshall was a 5 star General in the Army
+<div>
 <img src="https://www.atomicheritage.org/sites/default/files/George-Marshall.jpg" height="200"/>
-
+</div>
 
 
 ## Getting Start
