@@ -22,7 +22,8 @@ George Marshall was a 5 star General in the Army
 
 ```bash
 Take a virtual tour
-Test
+Scan QR Code
+Interact with General Marshall with Augmented Reality -- begin
 ```
 
 ## Usage
